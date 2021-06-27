@@ -1,0 +1,4 @@
+env/
+event/
+.env.json
+samconfig.toml
