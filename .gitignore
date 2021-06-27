@@ -1,4 +1,5 @@
 env/
 event/
+.aws-sam/
 .env.json
 samconfig.toml
